@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
-	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"id": "obsidian-ldap-contact",
+	"name": "LDAP contacts lookup",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "A simple plugin for Obsidian that allows you to save contact information from LDAP to your vault.",
+	"author": "Maksim Syomochkin",
+	"authorUrl": "https://mak-sim.ru",
 	"isDesktopOnly": false
 }
